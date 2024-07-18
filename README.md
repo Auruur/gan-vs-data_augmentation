@@ -20,7 +20,4 @@ Does generating new samples using a generative model result in better performanc
 4. Evaluation results
 5. Conclusions and Delivery
 
-You can find the final presentation of the project here [Presentation](FinalPresentation.pptx)
-
-
 **Authors: Alessandro Soccol, Marco Cosseddu, Giovanni Murgia**
