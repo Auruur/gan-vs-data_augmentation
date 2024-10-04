@@ -1,7 +1,3 @@
-Based on the content extracted from your PowerPoint presentation, I’ve created a draft for the README file for your new project in English:
-
----
-
 # Generative Oversampling with GAN and CycleGAN
 
 **Authors**: Alessandro Soccol, Marco Cosseddu, Giovanni Murgia  
