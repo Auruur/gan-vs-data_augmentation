@@ -7,6 +7,8 @@
 
 This project explores the use of Generative Adversarial Networks (GAN) and CycleGAN to generate synthetic data for oversampling in binary classification tasks. The goal is to determine whether using generative models can improve classification performance compared to traditional augmentation techniques.
 
+![demo_gans](https://github.com/user-attachments/assets/34e22c67-ac01-4428-8ca6-a06cf4e63395)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
